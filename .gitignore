@@ -23,7 +23,7 @@ dev-portal/node_modules/swagger-ui/*
 
 # details about setup needed for local dev; these are sensitive, do not commit them!
 #/dev-portal/deployer.config.js
-/dev-portal/public/config.js
+#/dev-portal/public/config.js
 
 # misc
 npm-debug.log

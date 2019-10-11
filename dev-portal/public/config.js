@@ -1,0 +1,1 @@
+window.config={"restApiId":"ecuo6ejhr5","region":"us-west-2","identityPoolId":"us-west-2:5726673e-2b47-4293-8a19-fc7585115019","userPoolId":"us-west-2_RlJPkLyMt","userPoolClientId":"61lc2d29v1sagq4smcfaecr4q","userPoolDomain":"https://terrahub-dev-portal.auth.us-west-2.amazoncognito.com","feedbackEnabled":false}
