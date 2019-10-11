@@ -1,9 +1,9 @@
 ---
 title: Developer Portal
 header: Developer Portal
-tagline: Your gateway to the data.
+tagline: Your gateway to Terrahub APIs.
 gettingStartedButton: Get Started
-apiListButton: Our APIs
+apiListButton: Terrahub APIs
 ---
 
 ### EXPLORE AND BUILD
